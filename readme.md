@@ -15,12 +15,6 @@ This is a react template atomic design
 
 <br/>
 
-## Technologies
-
-**Documentation:** [Design-System](Insira o link aqui)
-
-<br/>
-
 
 ## Contributors
 
